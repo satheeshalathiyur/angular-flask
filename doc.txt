@@ -1,0 +1,17 @@
+# INSTALLATION
+download and install npm
+npm install  -g  @angular/cli
+#configure npm path by adding 
+C:\Users\Dell\AppData\Roaming\npm\node_modules@angular
+#different commands
+ng generate OR ng g
+ng lint OR ng l
+ng build   OR ng b
+ng serve  OR ng s
+ng test OR ng t
+ng e2e OR ng e
+ng doc OR ng d
+ng help OR ng h
+
+#Start application
+ng new application-name
